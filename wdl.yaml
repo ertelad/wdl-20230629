@@ -1,6 +1,0 @@
-version: 1.2
-workflows:
-  subclass: WDL
-  primaryDescriptorPath: /wdl-101-bam.wdl
-authors:
-  orcid: 0000-0001-7455-1559
